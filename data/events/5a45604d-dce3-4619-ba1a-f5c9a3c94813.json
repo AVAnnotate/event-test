@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "5d141ea3-f72b-4ecf-9f92-d75c7794e8f1": {
+      "label": "Hearing Lived Experience",
+      "is_offline": false,
+      "file_url": "https://soundbox.ok.ubc.ca/wp-content/uploads/2023/02/Performing-the-Archive%EF%BC%9A-Leaf-leaf%E2%A7%B8s-by-Daphne-Marlatt.mp3"
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Hearing Lived Experience",
+  "created_at": "2024-09-25T17:51:41.678Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-25T17:51:41.678Z",
+  "updated_by": "absempere"
+}
